@@ -4,4 +4,4 @@
 ## Final Output
 ![ScreenShot](project2.jpeg)
 ## Project Link
-[![Project 2](https://img.shields.io/badge/Project%201-Netlify-green)](https://tanmay-paliwal-html1-project.netlify.app)
+[![Project 2](https://img.shields.io/badge/Project%202-Netlify-green)](https://relaxed-raindrop-d72fa4.netlify.app)
